@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gmshdemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hand::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hand-Debug-3c7252b04566193918d9.json",
+					"name" : "hand",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample01-Debug-f4a9f7f3254651912d16.json",
+					"name" : "sample01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample02-Debug-719de03e258d6b7aab4e.json",
+					"name" : "sample02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample03-Debug-ac9a92b1a8831fef8b81.json",
+					"name" : "sample03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample04-Debug-5b312abe757222804015.json",
+					"name" : "sample04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "torus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-torus-Debug-3371ff7cbbaaf27c809d.json",
+					"name" : "torus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+		"source" : "/home/roma/KT/KT_LPR_2025/lab1/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

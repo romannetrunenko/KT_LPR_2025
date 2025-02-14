@@ -1,0 +1,8 @@
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/sample01.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/sample02.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/sample03.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/sample04.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/torus.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/hand.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/edit_cache.dir
+/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles/rebuild_cache.dir

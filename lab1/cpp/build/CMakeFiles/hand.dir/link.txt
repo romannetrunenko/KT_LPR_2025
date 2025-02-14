@@ -1,0 +1,1 @@
+/usr/bin/clang++ -std=c++11 -g -g CMakeFiles/hand.dir/hand.cpp.o -o hand  /usr/lib/x86_64-linux-gnu/libgmsh.so 

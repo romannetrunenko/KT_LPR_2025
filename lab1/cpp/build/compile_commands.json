@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/sample01.dir/sample01.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample01.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/sample01.cpp",
+  "output": "CMakeFiles/sample01.dir/sample01.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/sample02.dir/sample02.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp",
+  "output": "CMakeFiles/sample02.dir/sample02.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/sample03.dir/sample03.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample03.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/sample03.cpp",
+  "output": "CMakeFiles/sample03.dir/sample03.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/sample04.dir/sample04.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample04.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/sample04.cpp",
+  "output": "CMakeFiles/sample04.dir/sample04.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/torus.dir/torus.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp",
+  "output": "CMakeFiles/torus.dir/torus.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab1/cpp/build",
+  "command": "/usr/bin/clang++   -std=c++11 -g -g -o CMakeFiles/hand.dir/hand.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp",
+  "output": "CMakeFiles/hand.dir/hand.cpp.o"
+}
+]
