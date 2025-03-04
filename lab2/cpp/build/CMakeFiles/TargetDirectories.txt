@@ -1,0 +1,6 @@
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/cubic2d.dir
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/cubic3d.dir
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/tetr3d.dir
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/mydemo.dir
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/edit_cache.dir
+/home/roma/KT/KT_LPR_2025/lab2/cpp/build/CMakeFiles/rebuild_cache.dir
