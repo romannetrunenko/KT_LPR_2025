@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab3/build",
+  "command": "/usr/bin/g++ -DADIOS2_USE_MPI -DBOOST_TIMER_DYN_LINK -DBOOST_TIMER_NO_LIB -DDOLFINX_VERSION=\\\"0.9.0\\\" -DFMT_SHARED -DHAS_ADIOS2 -DHAS_PETSC -DHAS_PTSCOTCH -DHAS_SLEPC -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/roma/KT/KT_LPR_2025/lab3/build -I/home/roma/KT/KT_LPR_2025/lab3 -isystem /usr/lib/python3/dist-packages/ffcx/codegeneration -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/include/hdf5/openmpi -isystem /usr/include/adios2/build/mpi -isystem /usr/lib/petscdir/petsc3.19/x86_64-linux-gnu-real/include -isystem /usr/lib/slepcdir/slepc3.19/x86_64-linux-gnu-real/include -g -std=c++20 -Wdate-time -D_FORTIFY_SOURCE=3 -Wno-comment -Wall -Wextra -pedantic -Werror -o CMakeFiles/demo_poisson.dir/main.cpp.o -c /home/roma/KT/KT_LPR_2025/lab3/main.cpp",
+  "file": "/home/roma/KT/KT_LPR_2025/lab3/main.cpp",
+  "output": "CMakeFiles/demo_poisson.dir/main.cpp.o"
+},
+{
+  "directory": "/home/roma/KT/KT_LPR_2025/lab3/build",
+  "command": "/usr/bin/gcc -DADIOS2_USE_MPI -DBOOST_TIMER_DYN_LINK -DBOOST_TIMER_NO_LIB -DDOLFINX_VERSION=\\\"0.9.0\\\" -DFMT_SHARED -DHAS_ADIOS2 -DHAS_PETSC -DHAS_PTSCOTCH -DHAS_SLEPC -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/home/roma/KT/KT_LPR_2025/lab3/build -I/home/roma/KT/KT_LPR_2025/lab3 -isystem /usr/lib/python3/dist-packages/ffcx/codegeneration -isystem /usr/lib/x86_64-linux-gnu/openmpi/include -isystem /usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -isystem /usr/include/hdf5/openmpi -isystem /usr/include/adios2/build/mpi -isystem /usr/lib/petscdir/petsc3.19/x86_64-linux-gnu-real/include -isystem /usr/lib/slepcdir/slepc3.19/x86_64-linux-gnu-real/include -g -Wdate-time -D_FORTIFY_SOURCE=3 -o CMakeFiles/demo_poisson.dir/poisson.c.o -c /home/roma/KT/KT_LPR_2025/lab3/build/poisson.c",
+  "file": "/home/roma/KT/KT_LPR_2025/lab3/build/poisson.c",
+  "output": "CMakeFiles/demo_poisson.dir/poisson.c.o"
+}
+]

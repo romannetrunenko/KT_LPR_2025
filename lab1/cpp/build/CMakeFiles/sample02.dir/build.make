@@ -73,15 +73,15 @@ CMakeFiles/sample02.dir/sample02.cpp.o: CMakeFiles/sample02.dir/flags.make
 CMakeFiles/sample02.dir/sample02.cpp.o: /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp
 CMakeFiles/sample02.dir/sample02.cpp.o: CMakeFiles/sample02.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sample02.dir/sample02.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sample02.dir/sample02.cpp.o -MF CMakeFiles/sample02.dir/sample02.cpp.o.d -o CMakeFiles/sample02.dir/sample02.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sample02.dir/sample02.cpp.o -MF CMakeFiles/sample02.dir/sample02.cpp.o.d -o CMakeFiles/sample02.dir/sample02.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp
 
 CMakeFiles/sample02.dir/sample02.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sample02.dir/sample02.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp > CMakeFiles/sample02.dir/sample02.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp > CMakeFiles/sample02.dir/sample02.cpp.i
 
 CMakeFiles/sample02.dir/sample02.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sample02.dir/sample02.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp -o CMakeFiles/sample02.dir/sample02.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/sample02.cpp -o CMakeFiles/sample02.dir/sample02.cpp.s
 
 # Object files for target sample02
 sample02_OBJECTS = \

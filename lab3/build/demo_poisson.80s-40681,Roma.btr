@@ -1,0 +1,14 @@
+
+demo_poisson:40681 terminated with signal 6 at PC=7f741432bb2c SP=7ffcdff73c00.  Backtrace:
+/lib/x86_64-linux-gnu/libc.so.6(pthread_kill+0x11c)[0x7f741432bb2c]
+/lib/x86_64-linux-gnu/libc.so.6(gsignal+0x1e)[0x7f74142d227e]
+/lib/x86_64-linux-gnu/libc.so.6(abort+0xdf)[0x7f74142b58ff]
+/lib/x86_64-linux-gnu/libstdc++.so.6(+0xa5ff5)[0x7f741465dff5]
+/lib/x86_64-linux-gnu/libstdc++.so.6(+0xbb0da)[0x7f74146730da]
+/lib/x86_64-linux-gnu/libstdc++.so.6(_ZSt10unexpectedv+0x0)[0x7f741465da55]
+/lib/x86_64-linux-gnu/libstdc++.so.6(+0xbb391)[0x7f7414673391]
+/lib/x86_64-linux-gnu/libdolfinx_real.so.0.9(+0x5ba0b)[0x7f74161b8a0b]
+/home/roma/KT/KT_LPR_2025/lab3/build/demo_poisson(+0x27b5d)[0x55b180464b5d]
+/lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca)[0x7f74142b71ca]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b)[0x7f74142b728b]
+/home/roma/KT/KT_LPR_2025/lab3/build/demo_poisson(+0x27165)[0x55b180464165]

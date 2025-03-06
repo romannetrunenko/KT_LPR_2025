@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vtkdemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cubic2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubic2d-Debug-acad16e0ecd7ef15842c.json",
+					"name" : "cubic2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cubic3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cubic3d-Debug-c47c81f4181afd298127.json",
+					"name" : "cubic3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mydemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mydemo-Debug-da58f5562aa110b7b792.json",
+					"name" : "mydemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tetr3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tetr3d-Debug-082da4c42b346040fd70.json",
+					"name" : "tetr3d",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/roma/KT/KT_LPR_2025/lab2/cpp/build",
+		"source" : "/home/roma/KT/KT_LPR_2025/lab2/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

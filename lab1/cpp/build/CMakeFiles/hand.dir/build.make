@@ -73,15 +73,15 @@ CMakeFiles/hand.dir/hand.cpp.o: CMakeFiles/hand.dir/flags.make
 CMakeFiles/hand.dir/hand.cpp.o: /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp
 CMakeFiles/hand.dir/hand.cpp.o: CMakeFiles/hand.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hand.dir/hand.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hand.dir/hand.cpp.o -MF CMakeFiles/hand.dir/hand.cpp.o.d -o CMakeFiles/hand.dir/hand.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hand.dir/hand.cpp.o -MF CMakeFiles/hand.dir/hand.cpp.o.d -o CMakeFiles/hand.dir/hand.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp
 
 CMakeFiles/hand.dir/hand.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hand.dir/hand.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp > CMakeFiles/hand.dir/hand.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp > CMakeFiles/hand.dir/hand.cpp.i
 
 CMakeFiles/hand.dir/hand.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hand.dir/hand.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp -o CMakeFiles/hand.dir/hand.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/hand.cpp -o CMakeFiles/hand.dir/hand.cpp.s
 
 # Object files for target hand
 hand_OBJECTS = \

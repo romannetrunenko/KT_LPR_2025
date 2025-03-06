@@ -1,0 +1,3 @@
+/home/roma/KT/KT_LPR_2025/lab3/build/CMakeFiles/demo_poisson.dir
+/home/roma/KT/KT_LPR_2025/lab3/build/CMakeFiles/edit_cache.dir
+/home/roma/KT/KT_LPR_2025/lab3/build/CMakeFiles/rebuild_cache.dir

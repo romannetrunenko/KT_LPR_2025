@@ -73,15 +73,15 @@ CMakeFiles/torus.dir/torus.cpp.o: CMakeFiles/torus.dir/flags.make
 CMakeFiles/torus.dir/torus.cpp.o: /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp
 CMakeFiles/torus.dir/torus.cpp.o: CMakeFiles/torus.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/roma/KT/KT_LPR_2025/lab1/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/torus.dir/torus.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/torus.dir/torus.cpp.o -MF CMakeFiles/torus.dir/torus.cpp.o.d -o CMakeFiles/torus.dir/torus.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/torus.dir/torus.cpp.o -MF CMakeFiles/torus.dir/torus.cpp.o.d -o CMakeFiles/torus.dir/torus.cpp.o -c /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp
 
 CMakeFiles/torus.dir/torus.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/torus.dir/torus.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp > CMakeFiles/torus.dir/torus.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp > CMakeFiles/torus.dir/torus.cpp.i
 
 CMakeFiles/torus.dir/torus.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/torus.dir/torus.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp -o CMakeFiles/torus.dir/torus.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/roma/KT/KT_LPR_2025/lab1/cpp/torus.cpp -o CMakeFiles/torus.dir/torus.cpp.s
 
 # Object files for target torus
 torus_OBJECTS = \
